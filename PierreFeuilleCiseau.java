@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.Random;
 
-class ppc {
+class PierreFeuilleCiseau {
 
     Scanner in = new Scanner(System.in);
 
